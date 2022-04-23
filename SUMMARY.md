@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [READY FOR A REVOLUTION IN THE METAVERSE?](README.md)
