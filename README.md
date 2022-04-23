@@ -10,12 +10,9 @@ The Bet Placer’s Club is an unique NFT membership with exclusive utilities for
 
 **Contact Information**
 
-Chat with the team: DISCORD.IO | Bet Placer's Club
-
-Email information: info@dutchartcollections.com
-
-Legal Entity: Genesis Collection B.V.
-
-Chamber of Commerce: 85812447
-
+Chat with the team: [discord.io/betplacersclub](https://discord.io/betplacersclub)\
+Email: [info@dutchartcollections.com](mailto:info@dutchartcollections.com) \
+Legal Entity: Genesis Collection B.V. \
+Chamber of Commerce: 85812447 \
 Located in: The Netherlands
+
