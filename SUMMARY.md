@@ -4,7 +4,7 @@
 
 ## 2D NFTs
 
-* [THE BET PLACER’S CLUB: A COLLECTION OF WALL STREET INSPIRED NFTs](2d-nfts/the-bet-placers-club-a-collection-of-wall-street-inspired-nfts.md)
+* [投注者俱乐部（ Bet Placer's Club）：一个受华尔街启发的非同质化代币（NFT）收藏](2d-nfts/tou-zhu-zhe-ju-le-bu-bet-placers-club-yi-ge-shou-hua-er-jie-qi-fa-de-fei-tong-zhi-hua-dai-bi-nft-sho.md)
 
 ***
 
