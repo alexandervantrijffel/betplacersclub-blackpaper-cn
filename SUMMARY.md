@@ -8,4 +8,4 @@
 
 ***
 
-* [NFT稀有度的解释](nft-xi-you-du-de-jie-shi.md)
+* [NFT稀有度的解释](nft-rarity-explained.md)

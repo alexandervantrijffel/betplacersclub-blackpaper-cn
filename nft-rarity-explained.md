@@ -1,7 +1,5 @@
 # NFT稀有度的解释
 
-Our NFTs consist of 12 layers and are designed with Wall Street in mind. Our artist Harmstar created 309 unique traits for the 2D Genesis Bet Placer’s Club collection. Each NFT is algorithmically generated from these traits and has a different rarity. We developed our own highly complicated Art Generator in which certain combined Traits result in extra rare Theme Characters. Each NFT has its own unique Metadata viewable on Opensea. io to check your rarity rank. On top of that, the Golden and Diamond tier will have a special Bet Placer’s Club Badge in such your choice of Tier is written as a piece of history on the Ethereum Blockchain. Please find our complete rarity table on the right.
-
 我们的 NFT 由 12 层组成，在设计时加入了华尔街的元素。我们的艺术家 Harmstar 为 Bet Placer's Club 2D Genesis NFT系列打造了 309 个独特的特征。每个 NFT 都是从这些特征通过算法生成的，并且每个都具有不同的稀有度。我们开发了我们自己的高度复杂的艺术生成器，其中某些特征的组合会生成格外稀有的主题角色。每个 NFT 都有自己独特的元数据. 您可在 Opensea.io 上查看它的稀有等级。最重要的是，金牌和钻石等级将有一个特殊的投注者俱乐部徽章，这样您选择的等级将成为记录在以太坊区块链上的一段历史。请在下表找到我们完整的稀有度表。
 
 |                  TOTAL # OF TRAITS                  |        LAYER DESCRIPTION       |
