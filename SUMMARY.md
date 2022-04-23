@@ -1,6 +1,6 @@
 # Table of contents
 
-* [READY FOR A REVOLUTION IN THE METAVERSE?](README.md)
+* [您准备好在元宇宙中引发一场革命了吗？](README.md)
 
 ## 2D NFTs
 
